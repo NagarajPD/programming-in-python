@@ -1,0 +1,1 @@
+import lesson-7_segment_1 as c
